@@ -1,0 +1,9 @@
+.vscode
+*.pth
+*.bin
+
+models/resnet/data/resize*
+models/resnet/resnet*
+!models/resnet/resnet.c
+
+__pycache__
