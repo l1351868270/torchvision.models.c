@@ -1,9 +1,12 @@
 .vscode
 *.pth
 *.bin
+*_test
 
 models/resnet/data/resize*
 models/resnet/resnet*
 !models/resnet/resnet.c
+!models/resnet/resnet18
+!models/resnet/resnet34
 
 __pycache__
